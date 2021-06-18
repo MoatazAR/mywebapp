@@ -1,0 +1,24 @@
+.imageclass{
+    height: 25px;
+    border:1px solid black;
+}
+td,tr,th{
+    text-align: center;
+}
+.imagedetailclass{
+    height: 110px;
+    border:1px solid black;
+}
+.details{
+    font-weight: bold;
+}
+.header{
+    margin-left: 20;
+}
+.header img{
+    float: left;
+}
+.header h1{
+    position: relative;
+    font-size: 500%;
+}
